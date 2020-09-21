@@ -3,7 +3,7 @@
 import random
 
 head = ["head of a bear",
-        "head of a cat,"
+        "head of a cat",
         "head of a stork",
         "head of an elephant",
         "head of a roswell alien",
@@ -22,7 +22,7 @@ arms = ["clawed arms",
         "tentacle arms",
         "bat wings",
         "eagle wings",
-        "beefy human arms,"
+        "beefy human arms",
         "scrawny human arms",
         "praying mantis arms",
         "three pairs of arms"
@@ -33,7 +33,7 @@ body = ["body of a fish",
         "body of an octopus",
         "body of a female human",
         "body of a male human",
-        "body of a bird,"
+        "body of a bird",
         "body of a horse",
         "body of a giraffe",
         "body of a turtle",
