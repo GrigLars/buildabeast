@@ -14,7 +14,8 @@ head = ["head of a bear",
         "head of a human female",
         "head of a human male",
         "head of an indescribable void",
-        "head of a shark"
+        "head of a shark",
+        "head of a frog"
         ]
 
 arms = ["clawed arms",
@@ -25,7 +26,8 @@ arms = ["clawed arms",
         "beefy human arms",
         "scrawny human arms",
         "praying mantis arms",
-        "three pairs of arms"
+        "three pairs of arms",
+        "boxing gloves"
         ]
 
 body = ["body of a fish",
